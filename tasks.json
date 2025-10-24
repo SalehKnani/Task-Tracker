@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title": "Finish project setup",
+        "status": "todo",
+        "createdAt": "2025-10-23T10:00:00Z",
+        "updatedAt": "2025-10-23T10:00:00Z",
+        "tags": [
+            "setup",
+            "project"
+        ],
+        "notes": "Initialize the repository and add .gitignore"
+    }
+]
