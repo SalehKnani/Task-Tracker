@@ -84,7 +84,7 @@ class JsonTaskRepository {
         if (title != null && !title.isBlank()) t.title = title;
         if (status != null && !status.isBlank()) {
             if (!isValidStatus(status)) {
-                System.out.println("Invalid status. Use: todo | in_progress | done");
+                System.out.println("Invalid status. Use: todo | in_progress | donee");
                 return false;
             }
             t.status = status;
